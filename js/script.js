@@ -10,7 +10,7 @@
  * This function does math by using given formula
  */
 // eslint-disable-next-line no-unused-vars
-function doMath() {
+function doMath () {
   let answer = 0
 
   // input
